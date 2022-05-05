@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    scroll-behavior:smooth;
+}
+
+a{
+    text-decoration: none;
+}
+.navbar {
+    position: fixed;
+    padding-left: 150px;
+    padding-bottom: 10px;
+    background-color:white;
+    z-index: 999;
+    width: 1350px;
+}
+.navbar li {
+    display: inline;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 20;
+    font-size: 12px;
+    color: #0F4C85;
+    margin-left: 10px;
+}
+.navbar h4{
+    display: inline;
+    color: #00305B;
+    font-family:'Noticia Text', serif;
+    font-weight: 100;
+    font-size: 25px;
+    margin-right: 170px;
+
+}
+
+.logo{
+    height: 45px;
+    width: 45px;
+    margin-top: 15px;
+}
+.background{
+    width: 1350px;
+    height: 600px;
+}
+
+.bluediv{
+    position: absolute;
+    background-color: #00305B;
+    height: 800px;
+    width: 550px;
+    opacity: 0.5;
+}
+span{
+    position: relative;
+    bottom: 350px;
+    left: 250px;
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+.boutique{
+    font-weight: 500;
+}
+.firstsection{
+    height: 600px;
+}
+.txt{
+    position: relative;
+    bottom: 340px;
+    left: 250px;
+    font-family: 'Open sans',sans-serif;
+    color: white;
+    width: 250px;
+}
+.lightbluediv{
+    background-color: rgb(221, 226, 241);
+    height: 520px;
+    width: 550px;
+    opacity: 0.4;
+}
+.practice{
+    position: relative;
+    bottom: 740px;
+    left: 250px;
+    font-weight: 550;
+    color: #00305B;
+}
+.area{
+    position: relative;
+    bottom: 440px;
+    left: 250px;
+    color: #00305B;
+
+}
+.secondsection{
+    position: absolute;
+}
+.secondpart{
+    position: absolute;
+    background-color: white;
+    margin-left: 550px;
+    height: 420px;
+    width: 600px;
+}
+
+.secondpart{
+    font-family: 'Open sans',sans-serif;
+    color:#00305B  ;
+}
+
+.litigation{
+    position: absolute;
+}
+
+.litigation h3{
+    font-weight: 80;
+}
+.plitigation{
+    width: 270px;
+    font-size: 14px;
+}
+
+.rightside{
+    margin-left: 400px;
+
+}
+
+.firstrow{
+    margin-top: 100px;
+
+}
+.secondrow{
+    margin-top: 220px;
+}
+.thirdrow{
+    margin-top: 340px;
+}
+.leftside{
+    margin-left: 40px;
+}
+
+.square{
+    background-color: #4c94d8;
+    height: 7px;
+    width: 7px;
+    position: absolute;
+    margin-left: -16px;
+    margin-top: 2px;
+}
